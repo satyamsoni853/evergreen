@@ -22,15 +22,7 @@ function App() {
         <Route path="/contact" element={<Contact />} />
        </Routes> 
     </BrowserRouter>
-    <BrowserRouter>
-      {/* <Navbar /> */}
-      <Landing />
-      <About />
-      <Product />
-      <Location />
-      <Contact />
-      <Footer />
-    </BrowserRouter>
+    
      
     </div>
   );
