@@ -15,7 +15,7 @@ function About() {
             Our factory is based on the Evergreen Foundation, where our
             commitment to quality and sustainability is at the heart of
             everything we do.
-          </p>{" "}
+          </p>
           <br />
           <p>
             Our factory is dedicated to creating high-quality pads and diapers
