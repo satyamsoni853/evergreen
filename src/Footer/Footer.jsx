@@ -29,12 +29,12 @@ function Footer() {
         </div>
         <div className="f-part-3">
           <h1>Quick Links</h1>
-          <p>Pregnancy</p>
+          <p>Diper</p>
           <p>New Born</p>
-          <p>Infant</p>
+          <p>Lose diper</p>
           <p>Toddlers</p>
           <p>Products</p>
-          <p>Videos</p>
+          <p>Pads</p>
         </div>
         <div className="f-part-4">
           <h3>Mandfacture By:</h3>
@@ -46,10 +46,16 @@ function Footer() {
         </div>
       </footer>
       <div className="f-social">
-      <FaFacebook/>
-      <IoLogoInstagram/>
-      <FaTwitter/>
-      </div>
+      <a href="https://www.facebook.com/niket.soni.58?mibextid=JRoKGi" target="_blank" rel="noopener noreferrer">
+        <FaFacebook />
+      </a>
+      <a href="https://www.instagram.com/niket.soni.58?mibextid=JRoKGi" target="_blank" rel="noopener noreferrer">
+        <IoLogoInstagram />
+      </a>
+      <a href="https://www.twitter.com/niket.soni.58?mibextid=JRoKGi" target="_blank" rel="noopener noreferrer">
+        <FaTwitter />
+      </a>
+    </div>
       <h1 className="copyright">Copyright © 2024 Desgin</h1>
     </div>
   );
